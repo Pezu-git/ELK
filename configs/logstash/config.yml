@@ -1,2 +1,4 @@
 http.host: 0.0.0.0
+xpack.monitoring.elasticsearch.password: POT654kds
+xpack.monitoring.elasticsearch.username: elastic
 xpack.monitoring.enabled: false
